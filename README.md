@@ -1,5 +1,7 @@
 # RaveDJ-Downloader
 
+For detailed info - https://deepwiki.com/saedarm/RaveDJ-Updated/1-overview
+
 ![Image](https://i.imgur.com/8rnRwTv.png "Usage")
 
 ### Downloads videos from Rave.dj
@@ -14,7 +16,7 @@
 
 * Json.NET
 * Konsole
-* .Net Core 3.0
+* .Net Core 8
 
 ### Tampermonkey Script
 #### This will add a button to all mashups allowing for easy access to downloading
